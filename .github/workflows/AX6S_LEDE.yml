@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: AX6S-5.15
+name: AX6S-LEDE
 
 on:
   repository_dispatch:
